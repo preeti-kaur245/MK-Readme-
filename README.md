@@ -1,4 +1,3 @@
-# MK-Readme-
 Hi 👋, I'm Manpreet Kaur
 
 A passionate AI Product Designer & Ai Engineer - Building AI-Powered products, digital systems & creative solutions
