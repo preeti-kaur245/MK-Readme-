@@ -4,7 +4,7 @@ A passionate AI Product Designer & Ai Engineer - Building AI-Powered products, d
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preeti-kaur245" alt="preeti-kaur245" /></a> </p>
 
-- 🔭 I'm currently working on
+🔭 I'm currently working on
 **- AI powered products & web applications 
 - RIMTify / University focused digital systems
 - Raftaar Growth Solutions- AI + automation for local businesses 
@@ -30,7 +30,7 @@ A passionate AI Product Designer & Ai Engineer - Building AI-Powered products, d
 ⚡ Fun fact **- I turn real-world problems into digital products, usually starting with a rough idea, a lot of prompts, and way too many tabs. 
 - I can go from "this problem is annoying" - UI - Prototype .**
 
-- 👨‍💻 All of my projects are available at **[https://manpreet-kaur-portfolio-plum.vercel.app/](https://manpreet-kaur-portfolio-plum.vercel.app/)**
+👨‍💻 All of my projects are available at **[https://manpreet-kaur-portfolio-plum.vercel.app/](https://manpreet-kaur-portfolio-plum.vercel.app/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
